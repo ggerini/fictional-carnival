@@ -5,8 +5,8 @@
     },
     "CODICE": {
       "loremWords": {
-        "minLength": 2,
-        "maxLength": 2
+        "minLength": 5,
+        "maxLength": 5
       }
     },
     "BRAND": {
