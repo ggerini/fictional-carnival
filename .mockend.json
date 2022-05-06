@@ -4,7 +4,7 @@
       "regexp": "8599[0-9]{8}"
     },
     "CODICE": {
-      "String": {
+      "string": {
         "minLength": 5,
         "maxLength": 20
       }
