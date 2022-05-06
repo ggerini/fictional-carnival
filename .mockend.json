@@ -4,9 +4,9 @@
       "regexp": "8599[0-9]{8}"
     },
     "CODICE": {
-      "string": {
-        "minLength": 5,
-        "maxLength": 20
+      "loremWords": {
+        "minLength": 2,
+        "maxLength": 2
       }
     },
     "BRAND": {
