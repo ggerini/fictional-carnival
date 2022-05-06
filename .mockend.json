@@ -1,0 +1,28 @@
+{
+  "Product": {
+    "12NC": {
+      "regexp": "8599[0-9]{8}"
+    },
+    "CODICE": {
+      "String": {
+        "minLength": 5,
+        "maxLength": 20
+      }
+    },
+    "BRAND": {
+      "string": [
+        "WHIRLPOOL",
+        "INDESIT",
+        "HOTPOINT",
+		"BAUKNECHT",
+		"KITCHEN AID"
+      ]
+    },
+    "PHASE": {
+      "string": [
+        "orange",
+        "gray"
+      ]
+    }
+  }
+}
