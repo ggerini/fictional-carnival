@@ -1,12 +1,12 @@
 {
   "Product": {
-    "12NC": {
+    "12nc": {
       "regexp": "8599[0-9]{8}"
     },
-    "CODICE": {
+    "codice": {
       "regexp": "[A-Z][a-z]{5,10}"
     },
-    "BRAND": {
+    "brand": {
       "string": [
         "WHIRLPOOL",
         "INDESIT",
@@ -15,7 +15,20 @@
 		"KITCHEN AID"
       ]
     },
-    "PHASE": {
+    "categoria": {
+    "string" : [
+	"FORNI",
+	"PIANI GAS",
+	"PIANI INDUZIONE",
+	"FREDDO - Doppia porta",
+	"FREDDO - Combi",
+	"FREDDO - Altro",
+	"LAVASTOVIGLIE - 60cm",
+	"LAVASTOVIGLIE - 45cm",
+	"LAVATRICI/LAVASCIUGA"
+    ]
+    },
+    "phase": {
       "string": [
         "orange",
         "gray"
