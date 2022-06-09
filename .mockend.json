@@ -33,6 +33,12 @@
         "orange",
         "gray"
       ]
+    },
+    "installation": {
+    "string" : [
+	"bi",
+	"fs"
+    ]
     }
   }
 }
